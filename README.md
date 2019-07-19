@@ -1,6 +1,6 @@
-Criando projeto do zero
+Criando projeto GoBarberWeb
 
-yarn create react-app modulo08
+yarn create react-app modulo09
 apagar o arquivo README.md
 deletar do package.json:
 "eslintConfig": {
@@ -32,3 +32,5 @@ yarn add prettier eslint-config-prettier
 yarn add eslint-plugin-prettier babel-eslint -D
 
 yarn add eslint-plugin-react-hooks -D
+
+
